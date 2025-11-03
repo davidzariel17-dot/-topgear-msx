@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "type": "media",
+  "title": "Top Gear Classic - Episódio 1",
+  "background": "https://upload.wikimedia.org/wikipedia/en/0/09/Top_Gear_Logo.svg",
+  "items": [
+    {
+      "title": "Episódio 1",
+      "subtitle": "The first act",
+      "description": "O 1º episódio de Top Gear mostrando supercarros no limite.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Top_Gear_Test_Track_Logo.svg/320px-Top_Gear_Test_Track_Logo.svg.png",
+      "sources": [
+        {
+          "type": "video/mp4",
+          "url": "https://drive.google.com/uc?export=download&id=1zHMFvLiW_MlTK1nslgvnW-1WQq7ifJRU"
+        }
+      ],
+      "subtitles": [
+        {
+          "url": "https://drive.google.com/uc?export=download&id=16c0tbJgOeQ3kYobC0o4phRTLGaQXQWxU",
+          "lang": "pt",
+          "label": "Português (Brasil)"
+        }
+      ]
+    }
+  ]
+}
